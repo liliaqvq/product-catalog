@@ -3,7 +3,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import { setProducts } from '@store/productsSlice';
 import { Product } from '@store/types';
 import axios from 'axios';
-import SortDropdown from './SortDropDown';
+import SortDropdown from './SortDropdown';
 import Pagination from './Pagination';
 import ProductGrid from './ProductGrid';
 
