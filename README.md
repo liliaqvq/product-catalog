@@ -13,15 +13,23 @@ Follow the steps below to set up and run the app locally:
    git clone https://github.com/liliaqvq/product-catalog.git
 
 2. **Navigate to the project directory if not there yet:**
+    ```bash
     cd product-catalog
 
 3. **Install dependencies:**
+   ```bash
     npm install
 
-4. **Start the development server:**
+4. **Install axios dependency (if not automatically added)**:
+    ```bash
+    npm install axios
+
+5. **Start the development server:**
+    ```bash
     npm run dev
 
-5. **Open the app in your browser**
+6. **Open the app in your browser**
+    ```bash
     Go to http://localhost:5173 (or the appropriate port) to view the application.
 
 
