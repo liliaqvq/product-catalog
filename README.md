@@ -1,4 +1,4 @@
-# Product Catalog App
+# 🛒 Product Catalog App
 
 This is a web application that allows users to view and interact with a product catalog. Built using **React**, **TypeScript**, and **Redux**.
 
@@ -36,4 +36,4 @@ Follow the steps below to set up and run the app locally:
 ## 🌐 Public URL
 You can access the deployed version of the app at the following link:
 
-https://your-deployed-app-url.com
+https://product-catalog-sandy.vercel.app/
